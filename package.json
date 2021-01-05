@@ -3,7 +3,7 @@
     "dotenv": "^5.0.1"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "monk": "^6.0.6",
     "twit": "^2.2.9"
   }
